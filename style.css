@@ -199,6 +199,12 @@ ul {
 width:80px !important;
 height:auto !important;
 }
+@media (max-width:768px){
+
+.logo img{
+width:55px !important;
+height:auto !important;
+}
 
 .nav-list {
     display: flex;
