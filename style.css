@@ -199,10 +199,10 @@ ul {
 width:80px !important;
 height:auto !important;
 }
-@media (max-width:768px){
 
+@media (max-width:768px){
 .logo img{
-width:55px !important;
+width:50px !important;
 height:auto !important;
 }
 
