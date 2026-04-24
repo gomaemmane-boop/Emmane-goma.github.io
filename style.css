@@ -196,8 +196,8 @@ ul {
 }
 
 .logo img {
-width:70px !important;
-height:auto !important;
+width:70px;
+height:auto;
 }
 
 .nav-list {
