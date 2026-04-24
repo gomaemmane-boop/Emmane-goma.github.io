@@ -196,14 +196,8 @@ ul {
 }
 
 .logo img {
-width:80px !important;
+width:70px !important;
 height:auto !important;
-}
-
-@media (max-width:768px){
-.logo img{
-width:5px;
-height:auto;
 }
 
 .nav-list {
