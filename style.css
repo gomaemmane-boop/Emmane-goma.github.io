@@ -195,20 +195,9 @@ ul {
     padding: 1rem 1.5rem;
 }
 
-./* CORRECTION TAILLE LOGO */
-.logo img {
-    width: 160px !important;
-    max-width: 160px !important;
-    height: auto !important;
-}
-
-.header-content {
-    padding: 0.5rem 1.5rem !important;
-}
-
-.header {
-    min-height: 70px;
-}
+.logo img{
+width:90px;
+height:auto;
 }
 
 .nav-list {
