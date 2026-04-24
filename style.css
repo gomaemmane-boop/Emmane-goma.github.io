@@ -195,9 +195,9 @@ ul {
     padding: 1rem 1.5rem;
 }
 
-.logo img{
-width:90px;
-height:auto;
+.logo img {
+width:70px !important;
+height:auto !important;
 }
 
 .nav-list {
